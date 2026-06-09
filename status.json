@@ -2,5 +2,8 @@
   "version": 1,
   "selfservice_hub": {
     "enabled": true
+  },
+  "eol_banner": {
+    "enabled": true
   }
 }
