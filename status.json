@@ -3,6 +3,9 @@
   "selfservice_hub": {
     "enabled": true
   },
+  "contact_form": {
+    "enabled": true
+  },
   "eol_banner": {
     "enabled": true
   }
