@@ -3,7 +3,7 @@
   "selfservice_hub": {
     "enabled": false
   },
-  "button_supportrequest": {
+  "contact_form": {
     "enabled": true
   }
 }
