@@ -1,7 +1,7 @@
 {
   "version": 1,
   "selfservice_hub": {
-    "enabled": false
+    "enabled": true
   },
   "contact_form": {
     "enabled": true
