@@ -7,6 +7,6 @@
     "enabled": false
   },
   "eol_banner": {
-    "enabled": true
+    "enabled": false
   }
 }
