@@ -4,9 +4,9 @@
     "enabled": true
   },
   "contact_form": {
-    "enabled": false
+    "enabled": true
   },
   "eol_banner": {
-    "enabled": false
+    "enabled": true
   }
 }
