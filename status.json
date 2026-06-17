@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "selfservice_hub": {
     "enabled": true
   },
@@ -7,6 +7,6 @@
     "enabled": true
   },
   "eol_banner": {
-    "enabled": false
+    "enabled": true
   }
 }
