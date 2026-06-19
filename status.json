@@ -1,10 +1,10 @@
 {
-  "version": 2,
+  "version": 3,
   "selfservice_hub": {
     "enabled": true
   },
   "contact_form": {
-    "enabled": true
+    "enabled": false
   },
   "eol_banner": {
     "enabled": true
