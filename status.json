@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "selfservice_hub": {
     "enabled": true
   },
@@ -8,5 +8,14 @@
   },
   "eol_banner": {
     "enabled": true
+  },
+  "reversessh": {
+    "enabled": false
+  },
+  "autoupgrade": {
+    "enabled": false
+  },
+  "solconn": {
+    "enabled": false
   }
 }
