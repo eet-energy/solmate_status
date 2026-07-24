@@ -19,6 +19,6 @@
     "enabled": true
   },
   "backend_logging": {
-    "enabled": false
+    "enabled": true
   }
 }
