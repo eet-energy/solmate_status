@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "selfservice_hub": {
     "enabled": true
   },
@@ -10,12 +10,15 @@
     "enabled": true
   },
   "reversessh": {
-    "enabled": false
+    "enabled": true
   },
   "autoupgrade": {
-    "enabled": false
+    "enabled": true
   },
   "solconn": {
+    "enabled": true
+  },
+  "backend_logging": {
     "enabled": false
   }
 }
