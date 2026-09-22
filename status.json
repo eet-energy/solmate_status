@@ -5,5 +5,11 @@
   },
   "contact_form": {
     "enabled": true
+  },
+  "liberation": {
+    "enabled": true
+  },
+  "liberation_ch": {
+    "enabled": false
   }
 }
